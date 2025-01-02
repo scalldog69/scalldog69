@@ -6,7 +6,6 @@
 <picture>
  <img alt="YOUR-ALT-TEXT" src="https://github.com/scalldog69/scalldog69/blob/main/IMG_20230430_085050.jpg">
 </picture>
-Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on github
 - 🌱 I’m currently learning github and VS and wordpress
